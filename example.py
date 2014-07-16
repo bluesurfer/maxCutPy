@@ -12,8 +12,6 @@ import maxcutpy.graphtest as gt
 
 
 __license__ = "GPL"
-__author__ = "\n".join(['Andrea Casini (<andreacasini88@gmail.com>)',
-                        'Nicola Rebagliati (<nicola.rebagliati@gmail.com>)'])
 
 
 if __name__ == '__main__':
